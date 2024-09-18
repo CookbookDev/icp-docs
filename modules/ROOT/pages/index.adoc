@@ -13,7 +13,12 @@ window.location.replace("https://dfinity.org/developers");
 ++++
 
 ++++
+<script src="https://cdn.jsdelivr.net/npm/@cookbookdev/docsbot/dist/standalone/index.cjs.js" defer></script>
+++++
+
+++++
 <div class="html-container">
+<div id="__cookbook" data-api-key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NmVhZjZhYjE3MDkyYjQzMGUyODI4MmQiLCJpYXQiOjE3MjY2NzQ2MDMsImV4cCI6MjA0MjI1MDYwM30.rcc23Yjc5d3WzfWj3z14d2GDORvlfXqitTHgjs1ItJo"></div>
    <div class="landing-hero">
         <h1>Build applications on-chain using smart contracts.</h1>
         <div class="landing-cta">
